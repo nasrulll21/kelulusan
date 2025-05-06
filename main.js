@@ -25,13 +25,13 @@ const studentDB = {
     "0071964672": { name: "MASRIADI", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor" },
     "0075761104": { name: "HAERUL ANAM", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor" },
     "0073777188": { name: "HASWIDI", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor" },
-    "0064707288": { name: "RAMLIADI", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
-    "0075833850": { name: "MUHAMMAD ALWI", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
-    "0073400057": { name: "FADIL", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
-    "0075257876": { name: "MUH. RISKY", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
-    "0077211028": { name: "ERWIN", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
-    "0062087799": { name: "GUNAWAN", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
-    "0067678997": { name: "SAHARUDDIN", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor Perikanan"},
+    "0064707288": { name: "RAMLIADI", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
+    "0075833850": { name: "MUHAMMAD ALWI", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
+    "0073400057": { name: "FADIL", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
+    "0075257876": { name: "MUH. RISKY", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
+    "0077211028": { name: "ERWIN", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
+    "0062087799": { name: "GUNAWAN", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
+    "0067678997": { name: "SAHARUDDIN", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor"},
   };
   
   // Validasi login menggunakan NISN dan asal sekolah
