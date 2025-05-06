@@ -11,7 +11,7 @@ const studentDB = {
     "0078148202": { name: "INDO HASNAH", passed: false, school: "SMKN 4 WAJO", jur: "Multimedia" },
     "0139598986": { name: "ANDIKA PRATAMA", passed: true, school: "SMKN 4 WAJO", jur: "Multimedia" },
     "0079558972": { name: "SARTIKA", passed: false, school: "SMKN 4 WAJO", jur: "Multimedia" },
-    "0066950870": { name: "NURFADILLAH", passed: true, school: "SMKN 4 WAJO", jur: "Multimedia" },
+    "0066950870": { name: "NURFADILLAH", passed: false, school: "SMKN 4 WAJO", jur: "Multimedia" },
     "0074920642": { name: "MUH. FAHREZA PUTRA", passed: true, school: "SMKN 4 WAJO", jur: "Multimedia" },
     "0092649406": { name: "HASLINA", passed: false, school: "SMKN 4 WAJO", jur: "Multimedia" },
     "0069399108": { name: "ISMA WARDANI", passed: true, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
