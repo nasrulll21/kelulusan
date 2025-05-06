@@ -19,7 +19,7 @@ const studentDB = {
     "0079939131": { name: "AULIA", passed: true, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
     "0067941696": { name: "ANDI ALYA RAHMANA", passed: true, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
     "0075580248": { name: "BESSE EKA", passed: true, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
-    "0061849649": { name: "SRI WAHYUNI", passed: true, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
+    "0061849649": { name: "SRI WAHYUNI", passed: false, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
     "0000000000": { name: "UCHA SEPTIA WILANDARI", passed: false, school: "SMKN 4 WAJO", jur: "Agribisnis Perikanan" },
     "0077390623": { name: "BASO FADLI", passed: true, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor" },
     "0071964672": { name: "MASRIADI", passed: false, school: "SMKN 4 WAJO", jur: "Teknik Sepeda Motor" },
